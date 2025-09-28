@@ -380,18 +380,18 @@ class _HomeScreenState extends State<HomeScreen> {
       key: const ValueKey('SettingsView'),
       child: Padding(
         padding: const EdgeInsets.all(20),
-        child: ListView(
+        child: Column(
           // key: const ValueKey('SettingsView'),
-          // mainAxisAlignment: MainAxisAlignment.center,
-          // crossAxisAlignment: CrossAxisAlignment.start,
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
-              'Настройки таймера',
-              style: Theme.of(
-                context,
-              ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold),
-            ),
-            const SizedBox(height: 10),
+            // Text(
+            //   'Настройки таймера',
+            //   style: Theme.of(
+            //     context,
+            //   ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold),
+            // ),
+            // const SizedBox(height: 10),
             SwitchListTile(
               title: const Text(
                 'Уведомления',
