@@ -21,15 +21,15 @@
 ---
 *Создано с ❤️ для всех, кто проводит много времени за компьютером.*
 
-<img width="300" height="2400" alt="Screenshot_1759086147" src="https://github.com/user-attachments/assets/91a74e88-8cac-4f3e-a1d8-d9b48e7e2146" />
+<img width="200" alt="Screenshot_1759086147" src="https://github.com/user-attachments/assets/91a74e88-8cac-4f3e-a1d8-d9b48e7e2146" />
 
-<img width="300" height="2400" alt="Screenshot_1759087193" src="https://github.com/user-attachments/assets/bb264e36-9266-459f-8a78-409d7fef58c7" />
+<img width="200" alt="Screenshot_1759087193" src="https://github.com/user-attachments/assets/bb264e36-9266-459f-8a78-409d7fef58c7" />
 
-<img width="300" height="2400" alt="Screenshot_1759086159" src="https://github.com/user-attachments/assets/58088b57-251a-4e6c-94a4-31e8929210ed" />
+<img width="200" alt="Screenshot_1759086159" src="https://github.com/user-attachments/assets/58088b57-251a-4e6c-94a4-31e8929210ed" />
 
-<img width="300" height="2400" alt="Screenshot_1759086179" src="https://github.com/user-attachments/assets/d8272917-ddb0-499c-82f9-ed77d5760b3e" />
+<img width="200" alt="Screenshot_1759086179" src="https://github.com/user-attachments/assets/d8272917-ddb0-499c-82f9-ed77d5760b3e" />
 
-<img width="300" height="2400" alt="Screenshot_1759086187" src="https://github.com/user-attachments/assets/9327f0d7-6c7b-42d7-8cb1-67abf2f62600" />
+<img width="200" alt="Screenshot_1759086187" src="https://github.com/user-attachments/assets/9327f0d7-6c7b-42d7-8cb1-67abf2f62600" />
 
-<img width="300" height="2400" alt="Screenshot_1759087280" src="https://github.com/user-attachments/assets/9564fcaf-2f9a-4d59-9dd0-c830e7b93379" />
+<img width="200" alt="Screenshot_1759087280" src="https://github.com/user-attachments/assets/9564fcaf-2f9a-4d59-9dd0-c830e7b93379" />
 
